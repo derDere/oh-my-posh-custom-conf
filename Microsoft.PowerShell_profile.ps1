@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/derDere/oh-my-posh-custom-conf/main/powerlevel10k_custom.omp.json' | Invoke-Expression
